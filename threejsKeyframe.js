@@ -134,7 +134,7 @@ function createScene(canvas)
     cube.position.x = 0
     // EL OJO DE LA PERDICIÓN
     // Add the mesh to our group
-    group.add( cube );
+    // group.add( cube );
 
     // CODE FROM THREE.JS ORG
     // instantiate a loader
